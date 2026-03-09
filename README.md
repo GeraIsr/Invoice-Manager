@@ -58,8 +58,10 @@ Built with pure **HTML + CSS + JavaScript** — no frameworks, no dependencies, 
 ## Project Structure
 
 ```
-invoice-manager-landing/
+Invoive-Manager/
 ├── index.html       # Complete landing page (single file)
+├── style.css        # Styles and animations
+├── script.js        # Theme toggle, scroll effects, interactions
 ├── README.md        # This file
 └── preview.png      # Optional preview screenshot
 ```
@@ -67,6 +69,7 @@ invoice-manager-landing/
 ---
 
 ## Getting Started
+> For project owner use only.
 
 ### Option 1 — Open locally
 
@@ -83,7 +86,7 @@ git init
 git add .
 git commit -m "init: landing page"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/invoice-manager-landing.git
+git remote add origin https://github.com/YOUR_USERNAME/Invoive-Manager.git
 git push -u origin main
 ```
 
@@ -91,7 +94,7 @@ Then go to **Settings → Pages → Source → main branch** and save.
 
 Your site will be live at:
 ```
-https://YOUR_USERNAME.github.io/invoice-manager-landing/
+https://YOUR_USERNAME.github.io/Invoive-Manager/
 ```
 
 ### Option 3 — Deploy to Netlify
@@ -122,7 +125,7 @@ The page includes optimized meta tags for freelancer-related search queries:
 ## Related
 
 - 📲 **Flutter App** — [Google Play Store](#)
-- 📧 **Contact** — hello@invoicemanager.app
+- 📧 **Contact** — invoicemanager.support@gmail.com
 
 ---
 
